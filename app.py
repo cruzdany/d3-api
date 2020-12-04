@@ -21,6 +21,9 @@ def man():
 
 
 
+#uStates
+
+
 """@app.route('/predict', methods=['POST'])
 def home():
     #data = {'chart_data': chart_data}
